@@ -1,0 +1,4 @@
+*.DS_Store*
+data/external*
+data/raw*
+clean_6_absence_2term_characteristics.csv
